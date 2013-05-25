@@ -1,4 +1,4 @@
-#!/home/kennedm/local/bin/perl
+#!/usr/bin/perl
 
 sub typeof { print ref \$_[0], "\n"; }
 typeof (*a);

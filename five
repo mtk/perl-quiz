@@ -1,4 +1,4 @@
-#!/home/kennedm/local/bin/perl
+#!/usr/bin/perl
 
 BEGIN { foo (b,1); sub foo { print "BEGIN: @_\n"; } foo (e,1); }
         foo (b,2); sub foo { print " main: @_\n"; } foo (e,2);

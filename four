@@ -1,4 +1,4 @@
-#!/home/kennedm/local/bin/perl
+#!/usr/bin/perl
 
 sub foo { print "i'm foo\n";}
 sub bar { print "i'm bar\n";}
